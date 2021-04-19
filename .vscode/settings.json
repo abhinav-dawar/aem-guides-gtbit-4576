@@ -1,0 +1,4 @@
+{
+    "aemsync.server": "http://localhost:6502",
+    "aemsync.port": 6502
+}

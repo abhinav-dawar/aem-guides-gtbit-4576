@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "gtbit-4576/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}
